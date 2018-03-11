@@ -1,2 +1,2 @@
-# learn_rust
+# Learn Rust
 Learning Rust etc
